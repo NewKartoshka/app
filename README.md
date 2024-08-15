@@ -1,0 +1,1 @@
+Git kullanımını öğreniyorum
